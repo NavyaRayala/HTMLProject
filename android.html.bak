@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+<link rel="stylesheet" href="android.css"></link>
+ </head>
+ <body>
+
+    <nav>
+      <div class="icon"><b style="color:white; font-size:30px" >Mobile Web</b></div>
+	  <div>
+	  <ul>
+	    <li><a href="home.html"> Home </a></li>
+	    <li><a href="login.html">Login  </a></li>
+		<li><a href="iphone.html"> iphone   </a></li>
+		<li><a href="android.html"> Android   </a></li>
+		<li><a href="#"> Orders  </a></li>
+		</ul>
+		</div>
+	</nav>
+   <br>
+   <br>
+
+
+<div><img src="E:\Navya\MobileWeb\MWPhotos\11.jpg" height="400px" width="1500px"> <div>
+<br>
+<br>
+   <table>
+   <tr>
+   <div class="body">
+      <td><img src="E:\Navya\MobileWeb\MWPhotos\12.jpg" height="350px" width="350px">
+	  <p>New Apple 13Pro Max<br>(256GB)-Pacific Blue<br>color:Parific blue</p>
+	  <input type="submit" value="Buy Now">
+	  </td>
+	  <br>
+	  <td><img src="E:\Navya\MobileWeb\MWPhotos\13.jpg" height="400px" width="400px">
+	  <p> New Apple iPhone 12(64GB)<br>color:RED<br>pattern name:iPhone 12</p>
+	   <input type="submit" value="Buy Now">
+	  </td>
+	  <br>
+	  <td><img src="E:\Navya\MobileWeb\MWPhotos\14.jpg" height="350px" width="300px">
+	  <p> New Apple iPhone 11(64GB)<br>color:Black<br>Pattern Name:iPhone11</p>
+	   <input type="submit" value="Buy Now">
+	  </td>
+	  <br>
+	  <td><img src="E:\Navya\MobileWeb\MWPhotos\15.jpg" height="350px" width="350px">
+	  <p> New Apple iPhone 12(64GB)<br>color:Red<br>Pattern Name:iPhone 11</p>
+	   <input type="submit" value="Buy Now">
+	  </td>
+
+	  <tr>
+	    <td></td>
+		</table>
+		</div>
+	
+	 <footer>
+			<div class="footer-content">
+			<p>Copyright 2021 Mobile Web.All rights reserved</p>
+			</div>
+			</footer>
+
+ </body>
+</html>

@@ -1,0 +1,107 @@
+
+*{
+margin:0;
+padding: 10px 15px;
+box-sizing: border-box;
+font-family: 'Poppins',sans-serif;
+}
+
+nav{
+display: flex;
+width: 100%;
+background: #0a5071;
+position:relative;
+justify-content: space-between;
+text-align: center;
+padding:25px 30px;
+}
+
+nav.icon{
+font-size: 30px;
+font-weight:800;
+color: #fff;
+cursor: pointer;
+}
+
+nav ul{
+ display: flex;
+ list-style: none;
+ margin: auto 0;
+ }
+
+ nav ul li{
+    margin: 0 2px;;
+	}
+	nav ul li a{
+	  color: #fff;
+	  font-size:20px;
+	  text-decoration: none;
+	  text-transform: capitalize;
+	  letter-spacing: 1px;
+	  padding: 5px 15px;
+	  }
+nav ul li:hover a{
+background: blue;
+color:#0a5071;
+}
+ nav ul li{
+    margin: 0 2px;;
+	}
+	nav ul li a{
+	  color: #fff;
+	  font-size:20px;
+	  text-decoration: none;
+	  text-transform: capitalize;
+	  letter-spacing: 1px;
+	  padding: 5px 15px;
+	  }
+nav ul li:hover a{
+background: blue;
+color:#0a5071;
+}
+ @madia screen and (max-width: 1250px)
+   nav{
+   display: block;
+   padding: 0;
+   }
+*{
+margin:0;
+padding: 0;
+box-sizing: border-box;
+position:center;
+}
+footer{
+background: #0a5071;
+height: auto;
+width:100pw;
+font-family:"open sans";
+padding-top:40px;
+color:#fff
+}
+.footer-content {
+   background: #0a5071;
+   width: 100vw;
+   padding: 10px 20px;
+   text-align: center;
+   }
+.footer-content p{
+font-size: 20px;
+word-spacing: 2px;
+text-transform: capitalize;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   '
